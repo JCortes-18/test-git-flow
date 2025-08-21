@@ -12,4 +12,8 @@ Esto es un entorno de pruebas
 
 ## titulo xxxxxxxx
 
+Mi nombre tales
+
+ejecucion del codigo
+`npm run dev`
 ...
